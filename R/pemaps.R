@@ -36,7 +36,7 @@ NULL
 #'
 #' @docType data
 #' @keywords datasets
-#' @name provincia
+#' @name provincial
 #'
 #' @usage data(provincial)
 #' @format Base de datos para graficar a nivel provincial el mapa de Peru.
@@ -44,26 +44,15 @@ NULL
 NULL
 
 
-#' Base de datos para graficar a nivel distrital el mapa de Peru.
+#' Base de datos para graficar a nivel edificaciones el mapa de Peru.
 #'
-#' Base de datos para graficar a nivel distrital el mapa de Peru.
+#' Base de datos para graficar a nivel edificaciones el mapa de Peru.
 #'
 #' @docType data
 #' @keywords datasets
-#' @name distrital
-#' @usage data(distrital)
-#' @format Base de datos para graficar a nivel distrital el mapa de Peru.
+#' @name edificaciones
+#' @usage data(edificaciones)
+#' @format Base de datos para graficar a nivel edificaciones el mapa de Peru.
 #'
 NULL
 
-#' Base de datos para graficar a nivel distrital el mapa de Peru.
-#'
-#' Base de datos para graficar a nivel distrital el mapa de Peru.
-#'
-#' @docType data
-#' @keywords datasets
-#' @name distrital
-#' @usage data(distrital)
-#' @format Base de datos para graficar a nivel distrital el mapa de Peru.
-#'
-NULL

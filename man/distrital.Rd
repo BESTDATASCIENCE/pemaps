@@ -3,22 +3,12 @@
 \docType{data}
 \name{distrital}
 \alias{distrital}
-\alias{distrital}
-\alias{distrital}
 \title{Base de datos para graficar a nivel distrital el mapa de Peru.}
 \format{Base de datos para graficar a nivel distrital el mapa de Peru.}
 \usage{
 data(distrital)
-
-data(distrital)
-
-data(distrital)
 }
 \description{
-Base de datos para graficar a nivel distrital el mapa de Peru.
-
-Base de datos para graficar a nivel distrital el mapa de Peru.
-
 Base de datos para graficar a nivel distrital el mapa de Peru.
 }
 \keyword{datasets}
