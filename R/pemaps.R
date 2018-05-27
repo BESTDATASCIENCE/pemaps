@@ -3,8 +3,14 @@
 #' @name pemaps
 #' @docType package
 
-hello <- function() {
-  print("Hello, world!")
-}
+NULL
 
-
+#' Base de datos para graficar a nivel departamento el mapa de Peru.
+#'
+#' Base de datos para graficar a nivel departamento el mapa de Peru.
+#'
+#' @docType data
+#' @keywords datasets
+#' @name departamental
+#' @usage data(departamental)
+#' @format Base de datos para graficar a nivel departamento el mapa de Peru.
