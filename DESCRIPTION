@@ -1,11 +1,13 @@
 Package: pemaps
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Trabaja con mapas de Peru. Creado por BEST
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
+Author: BEST (Behavioral Economics and Data Science Team)
+        Arturo Chian
+        Raul Panduro
+Maintainer: Arturo Chian <arturob.chian@gmail.com>
+Description: Paquete de R disenado para trabajar de forma sencilla mapas de Peru.
     Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+License: MIT
 Encoding: UTF-8
 LazyData: true
